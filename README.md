@@ -33,17 +33,10 @@ You should be able to view the homepage as below :
 Enter valid numerical values in all 3 input boxes and hit Predict.
 
 | Column Name | Range | feature description |  |
-| --- | --- | --- | |
-| TV |  [0,296] | [here](https://www.kaggle.com/ashydv/advertising-dataset) | <img src="https://github.com/vaibhavhariaramani/advertising-Sales-ML-Model-Flask-Deployment/blob/main/images/columns/tv.png" alt="Illustration"/> |
-
-| Radio | [0,50] | [here](https://www.kaggle.com/ashydv/advertising-dataset) | <img src="https://github.com/vaibhavhariaramani/advertising-Sales-ML-Model-Flask-Deployment/blob/main/images/columns/Radio.png" alt="Illustration"/> |
-| Newspaper | [0,114] | [here](https://www.kaggle.com/ashydv/advertising-dataset) | <img src="https://github.com/vaibhavhariaramani/advertising-Sales-ML-Model-Flask-Deployment/blob/main/images/columns/Newspaper.png" alt="Illustration"/> |
-
-| libraries known | Algo required | prior Article |  |
 | --- | --- | --- | --- |
-| [pandas](https://pandas.pydata.org/) | gradient descent | [linear regression](https://maelfabien.github.io/statistics/linreg/) | [here]() |
-| [numPy](https://numpy.org/) | Multicolinearnity | [multiple linear regression](https://maelfabien.github.io/statistics/linreg2/) | [here]() |
-| [matplotlib](https://matplotlib.org/) | FEATURE SELECTION | [statistics](https://maelfabien.github.io/statistics/Tests/) | --- |
+|  TV | [0,296] | [here](https://www.kaggle.com/ashydv/advertising-dataset) | <img src="/images/columns/tv.png" alt="Illustration"/> |
+| Radio | [0,50] | [here](https://www.kaggle.com/ashydv/advertising-dataset) | <img src="/images/columns/Radio.png" alt="Illustration"/> |
+| Newspaper | [0,114] | [here](https://www.kaggle.com/ashydv/advertising-dataset) | <img src="/images/columns/Newspaper.png" alt="Illustration"/> |
 | [sckit-learn](https://scikit-learn.org/stable/) |  | [linreg3](https://maelfabien.github.io/statistics/linreg3/) | [here]() |
 
 
