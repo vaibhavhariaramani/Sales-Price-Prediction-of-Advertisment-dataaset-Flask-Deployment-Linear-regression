@@ -31,8 +31,9 @@ You should be able to view the homepage as below :
 ![alt text](http://www.thepythonblog.com/wp-content/uploads/2019/02/Homepage.png)
 
 Enter valid numerical values in all 3 input boxes and hit Predict.
+
 | Column Name | Range | feature description |  |
-| --- | --- | --- | 
+| --- | --- | --- | |
 | TV |  [0,296] | [here](https://www.kaggle.com/ashydv/advertising-dataset) | <img src="https://github.com/vaibhavhariaramani/advertising-Sales-ML-Model-Flask-Deployment/blob/main/images/columns/tv.png" alt="Illustration"/> |
 
 | Radio | [0,50] | [here](https://www.kaggle.com/ashydv/advertising-dataset) | <img src="https://github.com/vaibhavhariaramani/advertising-Sales-ML-Model-Flask-Deployment/blob/main/images/columns/Radio.png" alt="Illustration"/> 
