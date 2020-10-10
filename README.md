@@ -61,7 +61,7 @@ Enter valid numerical values in all 3 input boxes and hit Predict.
 |  TV | [0,296] | [here](https://www.kaggle.com/ashydv/advertising-dataset) | <img src="/images/columns/tv.png" alt="Illustration"/> |
 | Radio | [0,50] | [here](https://www.kaggle.com/ashydv/advertising-dataset) | <img src="/images/columns/Radio.png" alt="Illustration"/> |
 | Newspaper | [0,114] | [here](https://www.kaggle.com/ashydv/advertising-dataset) | <img src="/images/columns/Newspaper.png" alt="Illustration"/> |
-| [sckit-learn](https://scikit-learn.org/stable/) |  | [linreg3](https://maelfabien.github.io/statistics/linreg3/) | [here]() |
+
 
 
 
