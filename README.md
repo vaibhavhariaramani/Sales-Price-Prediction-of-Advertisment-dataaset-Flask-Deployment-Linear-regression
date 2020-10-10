@@ -1,7 +1,7 @@
 # Advertising-Sales-ML-Model-Flask-Deployment
 ## ML-Model-Flask-Deployment
 This is a project to elaborate how Machine Learn Models are deployed on production using Flask API
-
+<img src="/images/columns/tv.png" alt="Illustration"/> 
 ### Prerequisites
 You must have Scikit Learn, Pandas (for Machine Leraning Model) and Flask (for API) pre-installed.
 
