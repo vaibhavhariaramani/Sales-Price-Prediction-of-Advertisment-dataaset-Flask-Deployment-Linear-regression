@@ -1,5 +1,8 @@
 # [Advertising-Sales-ML-Model-Flask-Deployment](https://sales-predictionapi.herokuapp.com/)
 ## [Checkout Live Model Api at ](https://sales-predictionapi.herokuapp.com/):[https://sales-predictionapi.herokuapp.com/](https://sales-predictionapi.herokuapp.com/)
+```
+[https://sales-predictionapi.herokuapp.com/](https://sales-predictionapi.herokuapp.com/)
+```
 ### Problem : [Advertising Dataset](https://www.kaggle.com/ashydv/advertising-dataset)
 
 ## Single Linear Regression (SLR)
@@ -15,6 +18,10 @@ We will explore [Advertising Dataset](https://www.kaggle.com/ashydv/advertising-
 - Model Building
 - Model Evaluation
 - Model Deployment Using Flask and Heroku
+
+
+## For better understanding about Single Linear Regression (SLR) checkout my blog [My personal data science blog on EDA](https://vaibhavhariaramani.github.io/blogs/) 
+
 
 ## ML-Model-Flask-Deployment
 This is a project to elaborate how Machine Learn Models are deployed on production using Flask API
