@@ -1,5 +1,6 @@
 # Advertising-Sales-ML-Model-Flask-Deployment
-# [Checkout Live Model Api at ](https://sales-predictionapi.herokuapp.com/):[https://sales-predictionapi.herokuapp.com/](https://sales-predictionapi.herokuapp.com/)
+## [Checkout Live Model Api at ](https://sales-predictionapi.herokuapp.com/):[https://sales-predictionapi.herokuapp.com/](https://sales-predictionapi.herokuapp.com/)
+
 ## ML-Model-Flask-Deployment
 This is a project to elaborate how Machine Learn Models are deployed on production using Flask API
 <img src="https://github.com/vaibhavhariaramani/advertising-Sales-ML-Model-Flask-Deployment/blob/main/images/columns/tv.png"> 
