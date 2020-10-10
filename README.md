@@ -36,8 +36,8 @@ Enter valid numerical values in all 3 input boxes and hit Predict.
 | --- | --- | --- | |
 | TV |  [0,296] | [here](https://www.kaggle.com/ashydv/advertising-dataset) | <img src="https://github.com/vaibhavhariaramani/advertising-Sales-ML-Model-Flask-Deployment/blob/main/images/columns/tv.png" alt="Illustration"/> |
 
-| Radio | [0,50] | [here](https://www.kaggle.com/ashydv/advertising-dataset) | <img src="https://github.com/vaibhavhariaramani/advertising-Sales-ML-Model-Flask-Deployment/blob/main/images/columns/Radio.png" alt="Illustration"/> 
-| Newspaper | [0,114] | [here](https://www.kaggle.com/ashydv/advertising-dataset) | <img src="https://github.com/vaibhavhariaramani/advertising-Sales-ML-Model-Flask-Deployment/blob/main/images/columns/Newspaper.png" alt="Illustration"/> 
+| Radio | [0,50] | [here](https://www.kaggle.com/ashydv/advertising-dataset) | <img src="https://github.com/vaibhavhariaramani/advertising-Sales-ML-Model-Flask-Deployment/blob/main/images/columns/Radio.png" alt="Illustration"/> |
+| Newspaper | [0,114] | [here](https://www.kaggle.com/ashydv/advertising-dataset) | <img src="https://github.com/vaibhavhariaramani/advertising-Sales-ML-Model-Flask-Deployment/blob/main/images/columns/Newspaper.png" alt="Illustration"/> |
 
 If everything goes well, you should  be able to see the predcited salary vaule on the HTML page!
 ![alt text](http://www.thepythonblog.com/wp-content/uploads/2019/02/Result.png)
