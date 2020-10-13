@@ -3,7 +3,7 @@
 ```
 [https://sales-predictionapi.herokuapp.com/]
 ```
-[![Deployed Model](https://www.netlify.com/img/deploy/button.svg)](https://sales-predictionapi.herokuapp.com/)
+[![Deployed Model]()](https://sales-predictionapi.herokuapp.com/)
 
 ### Problem : [Advertising Dataset](https://www.kaggle.com/ashydv/advertising-dataset)
 
