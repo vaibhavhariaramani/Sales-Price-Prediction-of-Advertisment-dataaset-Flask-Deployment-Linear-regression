@@ -85,7 +85,7 @@ Checkout my model [https://sales-predictionapi.herokuapp.com/](https://sales-pre
 
 To learn more about these Resources you can Refer to some of these articles written by Me:-
 
-- [Medium](https://medium.com/geeky-bawa)
+- [Medium](https://medium.com/geeky-bawa) complete blog coming soon
 - [geeky Traveller](https://sites.google.com/view/geeky-traveller/)
 - [Blogs](https://github.com/vaibhavhariaramani/blogs)
 - [Youtube](https://www.youtube.com/channel/UCy7amUpLnsRLEMIaJGGBYog)[![Youtube Badge](https://img.shields.io/badge/-Geeky_Bawa-1ca0f1?style=flat-circle&labelColor=d54b3d&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCy7amUpLnsRLEMIaJGGBYog)](https://www.youtube.com/channel/UCy7amUpLnsRLEMIaJGGBYog)
