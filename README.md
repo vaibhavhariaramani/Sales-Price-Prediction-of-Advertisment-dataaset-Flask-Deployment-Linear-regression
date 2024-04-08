@@ -1,9 +1,6 @@
 # [Advertising-Sales-ML-Model-Flask-Deployment](https://sales-predictionapi.herokuapp.com/)
-## [Checkout Live Model Api at ](https://sales-predictionapi.herokuapp.com/):[https://sales-predictionapi.herokuapp.com/](https://sales-predictionapi.herokuapp.com/)
-```
-[https://sales-predictionapi.herokuapp.com/]
-```
-[![Deployed Model](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/continuous-delivery-default.png)](https://sales-predictionapi.herokuapp.com/)
+
+
 
 ### Problem : [Advertising Dataset](https://www.kaggle.com/ashydv/advertising-dataset)
 
